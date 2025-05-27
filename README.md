@@ -1,5 +1,5 @@
-# Project Geochat
-Passion project starting in May 2025 as a way for me to create a fun, practical application for anyone to have a fun way of smartly interacting and sharing tips as to what is out there, in whatever environment they deem fun and necessary. 
+# Geochat
+Passion project starting in May 2025 as a way for Thor Long to create a fun, practical application for anyone to have a fun way of smartly interacting and sharing tips as to what is out there, in whatever environment they deem fun and necessary. 
 
 To be used as a "Proximity communication system" and will utilize features such as:
 
@@ -19,19 +19,14 @@ To be used as a "Proximity communication system" and will utilize features such 
 
 Thor Long
 
-## Tech Stack
+## Technologies Used
+
+* Jira: All process workflow will be tracked using Jira. This not only allows the project to be organized in a neat manner, but additionally allows me to learn how to use Jira, which a lot of companies use (instead of Trello) for their own purposes. 
+* Expo: Expo, and React Native is a familiar tool that I'm able to use to eventually publish the app on IOS and Android. 
+* Supabase: 3-in-1 database, user authentication, and storage for the app. Actively learning.
+* Figma: Used to diagram out the app so I know what kind of design I want to move towards. 
+* Stripe: Will eventually be used for monetization purposes. Likely, satellite features will need to be hidden behind a paywall, since there is a high chance that these services themselves require a price to pay.
 
 ## Startup Guide
 
-## Changelog 
-
-> #### Project initialization 5/25/2025
-> 
-> * Established overall goals and theme for the project, its' intended deliverables, and README.md format conventions (such as this changelog)
-> * Initialized MongoDB database
-> * Version control-ifyed the project on github
-
-> #### GOALS: 
-> * Initialize db connection with starter expo project
-> * Figma diagram-out the flow of the app
-> * Jira-ify the changelog
+> **Expo**: To test the app environment, navigate to /geochat and run 'npx expo start'. Use the provided QR code to test the environment using your phone on the Expo Go app.
