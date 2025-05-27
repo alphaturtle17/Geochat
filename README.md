@@ -29,4 +29,4 @@ Thor Long
 
 ## Startup Guide
 
-> **Expo**: To test the app environment, navigate to /geochat and run 'npx expo start'. Use the provided QR code to test the environment using your phone on the Expo Go app.
+> **Expo**: To test the app environment, navigate to /geochat and run 'npx expo start'. Use the provided QR code to test the environment using your phone on the Expo Go app. 
